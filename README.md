@@ -45,6 +45,4 @@ Future Improvements
 - Add additional security features.
 - Enhance alert reliability.
 
-## Project Working Image
 
-![Project Working Demonstration](Images/Project_Working_Demonstration.png)
